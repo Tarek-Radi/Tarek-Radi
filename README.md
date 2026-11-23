@@ -4,7 +4,16 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:14B8A6&height=220&section=header&text=Tarek%20Mahmoud%20Abdelrady&fontSize=37&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Data%20Engineering%20%7C%20Applied%20AI%20%7C%20Building%20Real%20Systems&descSize=17&descAlignY=58" alt="Tarek Mahmoud Abdelrady profile banner" />
 </p>
 
-<h2 align="center">Hi, I'm Tarek 👋</h2>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=90&pause=1800&color=38BDF8&center=true&vCenter=true&width=750&height=65&lines=Hi%2C+I'm+Tarek+Mahmoud+%F0%9F%91%8B;Data+Engineer+%7C+AI+Systems+Builder;Turning+Ideas+Into+Real+Systems"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
+
 <p align="center">
   <b>Aspiring Data Engineer · AI Systems Builder · Engineering Student</b><br/>
   Helwan University, Egypt · Communications & Information Engineering · Expected graduation: 2027
