@@ -104,14 +104,48 @@ I am interested in building systems that are not only technically interesting bu
 I'm also exploring a future direction at the intersection of **early-childhood education and responsible technology**: tools that may help nurseries manage operations, document child development, and communicate with parents. This is a **future product vision**, not a claim that a child assessment or nursery AI platform has already been built or validated. Privacy, child safety, and expert oversight would be essential to that work.
 
 ---
+<!-- Paste this section in your profile README.md just before "## Let's Connect". -->
+<!-- All metrics below are dynamic for Tarek-Radi, not hardcoded from other developers. -->
 
+## Background
+
+**B.Sc. in Communications & Information Engineering (AI Track)** — Helwan University, Egypt · **Expected graduation: 2027**
+
+**Training & learning:** AVR Diploma (IMT) · NTI Machine Learning Training · AI Ambassadors Program · Hands-on Data Engineering and Applied AI projects
+
+---
+
+## GitHub Stats & Contributions
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tarek-Radi&show_icons=true&theme=tokyonight&hide_border=true" alt="Tarek's GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarek-Radi&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages in Tarek's public repositories" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Tarek-Radi&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=22C55E&currStreakLabel=38BDF8" alt="Tarek's contribution streak" />
+</p>
+
+### Contribution Activity
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tarek-Radi&theme=github_dark" alt="Tarek's GitHub contribution timeline" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tarek-Radi&theme=react-dark&hide_border=true&bg_color=0D1117&color=38BDF8&line=22C55E&point=FFFFFF&area=true&area_color=0EA5E9" alt="Tarek's contribution activity graph" />
+</p>
+
+<p align="center"><sub>Live statistics use publicly available GitHub activity. Language percentages reflect code in repositories, not skill level. Third-party image services can be temporarily unavailable.</sub></p>
+
+---
 ## Let's Connect
 
 I welcome thoughtful conversations about **Data Engineering, applied AI, and collaborative software projects**.
 
 - **GitHub:** [Tarek-Radi](https://github.com/Tarek-Radi)
 - **LinkedIn:** [Tarek Mahmoud Abdelrady](https://www.linkedin.com/in/tarek-mahmoud-abdelrady-404884354/)
-- **Portfolio:** [Data Engineering Portfolio](https://tarek-data-engineer-portfolio.vercel.app/)
+
 
 <p align="center"><i>Build with curiosity. Ship with care. Keep learning.</i></p>
 
